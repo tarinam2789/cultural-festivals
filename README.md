@@ -28,16 +28,13 @@ Here's a walkthrough of implemented required features:
 
 
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+GIF created with Keynote
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While building the "Cultural Festivals of Bangladesh" website, I encountered challenges learning and implementing React for the first time. Understanding its concepts was a significant learning curve, but doing so enhanced the site's interactivity and performance.
 
 ## License
 
