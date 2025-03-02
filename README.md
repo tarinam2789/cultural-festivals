@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="Cultural%20Festivals.gif" title="Video Walkthrough" width="500" alt="Video Walkthrough" />
+<img src="public/assets/Cultural%20Festivals.gif" title="Video Walkthrough" alt="Video Walkthrough" />
+
 
 
 
